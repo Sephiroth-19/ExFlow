@@ -1,0 +1,16 @@
+# 忽略可执行文件和临时文件
+*.exe
+*.dll
+*.log
+*.tmp
+*.bak
+*.zip
+*.rar
+
+# 忽略 Python 编译缓存
+__pycache__/
+*.pyc
+
+# 忽略IDE相关文件
+.vscode/
+.idea/
